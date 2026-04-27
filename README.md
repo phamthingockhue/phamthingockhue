@@ -7,8 +7,6 @@ I am an IT student with a deep interest in system architecture and data-driven d
 - 🇯🇵 **Language:** JLPT N4 Certified (Preparing for higher levels to work in Japan).
 - 🔐 **Interests:** System Security, CTF Challenges, and Network Administration.
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=phamthingockhue&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🛠 Technical Toolkit
